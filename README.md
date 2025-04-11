@@ -1,4 +1,4 @@
-~Daemon Cox~
+Daemon Cox
 
 Computer Science Student,
 Interested In Cybersecurity
