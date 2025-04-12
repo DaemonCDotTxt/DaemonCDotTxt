@@ -21,7 +21,6 @@ You can contact me at DaemonCBusiness@gmail.com
 
 ### Fluent In:
 
-
 ```python
 print("Hello World")
 ```
