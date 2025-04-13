@@ -68,18 +68,18 @@ You can contact me at DaemonCBusiness@gmail.com
 - Bachelor's Degree (CyberSecurity) from WGU
 - Certifications (Subject to change):
  
-\> CompTIA A+
+  \> CompTIA A+
 
-\> CompTIA Cysa+
+  \> CompTIA Cysa+
 
-\> CompTIA Network+
+  \> CompTIA Network+
 
-\> CompTIA PenTest+
+  \> CompTIA PenTest+
 
-\> CompTIA Security+
+  \> CompTIA Security+
 
-\> CompTIA CASP+
+   \> CompTIA CASP+
 
-\> CompTIA Linux+
+   \> CompTIA Linux+
 
 </details>
