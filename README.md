@@ -10,7 +10,7 @@ Programming is my biggest creative outlet. When a :bulb: strikes, it must be cre
 
 19
 
-CyberSecurity Student
+CompSci Student
 
 Interested In Cybersecurity (Red Team wannabe)
 
