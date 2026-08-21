@@ -8,13 +8,13 @@ Programming is my biggest creative outlet. When a :bulb: strikes, it must be cre
 
 ### Daemon Cox
 
-18
+19
 
-Computer Science Student
+CyberSecurity Student
 
 Interested In Cybersecurity (Red Team wannabe)
 
-You can contact me at DaemonCBusiness@gmail.com
+You can contact me at DaemonCPersonal@gmail.com
 
 ♟️ Chess Enthusiast
 
